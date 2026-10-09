@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "source_repository": "moduplayworks/modutt-mono",
-  "source_sha": "2881cd54e4e2d9507d9668ac48f60f3d5f947235",
-  "version": "2026.41.7",
+  "source_sha": "155de188dba9f1089440e3a1db48f6e9c1754e69",
+  "version": "2026.41.8",
   "site_url": "https://modutt.kr/",
   "transport_base_path": "/",
   "product_route_prefix": "/busu"
