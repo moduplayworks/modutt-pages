@@ -1,0 +1,87 @@
+{
+  "verifiedAt": "2026-10-13T10:26:29.320Z",
+  "sources": [
+    {
+      "sourceCode": "astree",
+      "pageUrl": "https://astree.co.kr/bbs/board.php?bo_table=gamecup",
+      "assetUrl": "https://astree.co.kr/icon-180x180.png",
+      "file": "astree.png",
+      "status": "verified",
+      "width": 180,
+      "height": 180,
+      "note": "공식 페이지가 apple-touch-icon으로 선언한 정사각 PNG. 원본 그대로 저장."
+    },
+    {
+      "sourceCode": "newttplay",
+      "pageUrl": "https://www.newttplay.co.kr/bbs/board.php?bo_table=gamecup",
+      "assetUrl": "https://www.newttplay.co.kr/icon-180x180.png",
+      "file": "newttplay.png",
+      "status": "verified",
+      "width": 180,
+      "height": 180,
+      "note": "공식 페이지가 apple-touch-icon으로 선언한 정사각 PNG. 원본 그대로 저장."
+    },
+    {
+      "sourceCode": "mytt",
+      "pageUrl": "https://mytt.kr/ttc/contest_list.xhtml?scale=L",
+      "assetUrl": "https://mytt.kr/javax.faces.resource/images/logo.png.xhtml?ln=mytt",
+      "file": "mytt.png",
+      "status": "verified_logo",
+      "width": 136,
+      "height": 48,
+      "note": "공식 페이지의 헤더 logo.png. 세션 식별자를 제외한 동일 JSF resource URL로 정상 응답 확인. favicon 선언 없음. 가로형이므로 contain 표시 권장; 작은 정사각 마커에서는 가독성 확인 필요.",
+      "originalWidth": 140,
+      "originalHeight": 52,
+      "transformation": "Original PNG; trimmed only uniform outer whitespace using sharp, proportions and logo artwork preserved"
+    },
+    {
+      "sourceCode": "okpingpong",
+      "pageUrl": "http://okpingpong.co.kr/04match/04_1.php",
+      "assetUrl": "http://okpingpong.co.kr/images/common/top_logo_250214.gif",
+      "file": "okpingpong.png",
+      "status": "verified_logo",
+      "width": 87,
+      "height": 72,
+      "note": "공식 헤더의 GIF 로고를 macOS sips로 PNG 변환. 첫 프레임만 보존. favicon 선언 없음. 가로형 캔버스에 여백이 많아 작은 정사각 표시에서는 가독성 확인 필요.",
+      "transformation": "GIF first frame to PNG using sips; no redraw or crop.; trimmed only uniform outer whitespace using sharp, proportions and logo artwork preserved",
+      "originalWidth": 402,
+      "originalHeight": 98
+    },
+    {
+      "sourceCode": "ttadivision",
+      "pageUrl": "https://ttadivision.sports.or.kr/divLeg/divisionLeg.do",
+      "assetUrl": "https://ttadivision.sports.or.kr/img/logo.png",
+      "file": "ttadivision.png",
+      "status": "verified_logo",
+      "width": 152,
+      "height": 56,
+      "note": "공식 헤더 logo 링크의 CSS background-image. 선언된 favicon은 404여서 공식 헤더 로고 사용. 가로형이므로 contain 표시 권장; 작은 정사각 마커에서는 가독성 확인 필요.",
+      "unusableAssetUrl": "https://ttadivision.sports.or.kr/images/favicon.ico",
+      "unusableAssetStatus": 404,
+      "originalWidth": 152,
+      "originalHeight": 56,
+      "transformation": "Original PNG; trimmed only uniform outer whitespace using sharp, proportions and logo artwork preserved"
+    },
+    {
+      "sourceCode": "iping",
+      "pageUrl": "https://www.iping.club/?pg=competition&m=3",
+      "assetUrl": "https://www.iping.club/ico/favicon-96x96.png",
+      "file": "iping.png",
+      "status": "verified",
+      "width": 96,
+      "height": 96,
+      "note": "공식 페이지가 rel=icon으로 선언한 정사각 PNG. 원본 그대로 저장."
+    },
+    {
+      "sourceCode": "superstar",
+      "pageUrl": "https://www.superstar.kr/open/Do.jsp?urlSeq=214",
+      "assetUrl": "https://www.superstar.kr/favicon.ico",
+      "file": "superstar.png",
+      "status": "verified",
+      "width": 72,
+      "height": 72,
+      "note": "공식 페이지의 shortcut icon. ICO의 72×72 이미지를 macOS sips로 PNG 변환.",
+      "transformation": "ICO to PNG using sips; no redraw or crop."
+    }
+  ]
+}
