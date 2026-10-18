@@ -1,1 +1,0 @@
-import{j as e}from"./index-ClN-cmc3.js";function n({title:s,description:a,actions:c}){return e.jsxs("header",{className:"account-page-header",children:[e.jsxs("div",{className:"account-page-header-copy",children:[e.jsx("h1",{children:s}),a&&e.jsx("p",{children:a})]}),c&&e.jsx("div",{className:"account-page-header-actions",children:c})]})}export{n as A};

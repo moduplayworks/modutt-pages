@@ -13,9 +13,6 @@ Allow: /
 User-agent: Daumoa
 Allow: /
 
-User-agent: GPTBot
-Allow: /
-
 User-agent: OAI-SearchBot
 Allow: /
 
@@ -51,6 +48,9 @@ Allow: /
 
 User-agent: CCBot
 Allow: /
+
+User-agent: GPTBot
+Disallow: /
 
 User-agent: *
 Allow: /

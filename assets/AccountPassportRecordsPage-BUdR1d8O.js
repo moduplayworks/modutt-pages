@@ -1,1 +1,0 @@
-import{u as a,d as r,j as s,N as o,f as c,e as u}from"./index-ClN-cmc3.js";function p(){const{preview:t}=a(),[e]=r();return s.jsx(o,{replace:!0,to:c("records",u(e.get("returnTo")),t)})}export{p as AccountPassportRecordsPage};
