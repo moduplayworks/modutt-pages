@@ -1,0 +1,1 @@
+import{bT as e,bN as s,aw as a}from"./index-BMFRVfIN.js";function t(i,n){return a(n,`browse.divisions.${i}`)}function b(i,n,o){if(o==="ko")return e(i,n);const r=s(i,n);return i?`${t(i,o)} ${r}`:r}function u(i,n){return a(n,`browse.events.${i}`)}export{t as a,b,u as l};
