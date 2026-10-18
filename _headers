@@ -1,0 +1,9 @@
+/passport/share
+  Cache-Control: no-store, private
+  Referrer-Policy: no-referrer
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet
+
+/passport/share/*
+  Cache-Control: no-store, private
+  Referrer-Policy: no-referrer
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet
