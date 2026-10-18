@@ -1,1 +1,0 @@
-import{u as a,e as r,j as s,N as o,g as c,f as u}from"./index-BOjzitLN.js";function p(){const{preview:t}=a(),[e]=r();return s.jsx(o,{replace:!0,to:c("records",u(e.get("returnTo")),t)})}export{p as AccountPassportRecordsPage};
