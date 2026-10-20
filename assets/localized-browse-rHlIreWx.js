@@ -1,0 +1,1 @@
+import{b$ as e,c0 as s,aF as a}from"./index-CzAEJlFg.js";function t(i,n){return a(n,`browse.divisions.${i}`)}function u(i,n,o){if(o==="ko")return e(i,n);const r=s(i,n);return i?`${t(i,o)} ${r}`:r}function b(i,n){return a(n,`browse.events.${i}`)}export{b as a,t as b,u as l};
