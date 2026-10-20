@@ -1,0 +1,1 @@
+import{c0 as e,c1 as s,aG as a}from"./index-DBaxKOL0.js";function t(i,n){return a(n,`browse.divisions.${i}`)}function c(i,n,o){if(o==="ko")return e(i,n);const r=s(i,n);return i?`${t(i,o)} ${r}`:r}function u(i,n){return a(n,`browse.events.${i}`)}export{u as a,t as b,c as l};
