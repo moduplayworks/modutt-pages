@@ -1,1 +1,0 @@
-import{b as s,o as t}from"./index-Bo4zsexa.js";function u(){const{session:r,repository:o}=s(),e=o?.records;return t({queryKey:["member",r.userId,"records"],enabled:r.status==="authenticated"&&!!e,queryFn:()=>{if(!e)throw new Error("record_repository_unavailable");return e.getWorkspace()},staleTime:3e4,retry:!1,refetchOnWindowFocus:!1})}export{u};

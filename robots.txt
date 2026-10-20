@@ -56,4 +56,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://modutt.kr/sitemap.xml
-Sitemap: https://modutt.kr/sitemap-tournaments.xml
