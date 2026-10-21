@@ -1,0 +1,1 @@
+import{j as t}from"./index-BD4zV_OY.js";function a({children:e,expanded:n,id:i}){return t.jsx("div",{id:i,className:"collapsible-content","data-expanded":n,"aria-hidden":!n,inert:!n,children:t.jsx("div",{className:"collapsible-content__inner",children:e})})}export{a as C};
