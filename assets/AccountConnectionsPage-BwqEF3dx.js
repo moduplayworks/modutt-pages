@@ -1,1 +1,0 @@
-import{s,j as c,N as n}from"./index-BD4zV_OY.js";function i(){const{pathname:t,search:o,hash:a}=s(),e=t.startsWith("/account/preview/")?"/account/preview":"/account";return c.jsx(n,{to:e+"/follows"+o+a,replace:!0})}export{i as AccountConnectionsPage};

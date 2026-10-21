@@ -1,0 +1,1 @@
+function a(o,r){const e=Date.parse(o)-r;if(!Number.isFinite(e)||e<=0)return null;const s=Math.max(1,Math.floor(e/1e3)),t=Math.floor(s/60),n=Math.floor(t/60),u=Math.floor(n/24);return u>0?{unit:"daysHours",value0:u,value1:n%24}:n>0?{unit:"hoursMinutes",value0:n,value1:t%60}:t>0?{unit:"minutes",value0:t}:{unit:"seconds",value0:s}}export{a as p};
