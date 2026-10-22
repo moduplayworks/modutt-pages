@@ -1,0 +1,1 @@
+import{bC as e,bD as s,aQ as a}from"./index-D5_aHwAp.js";function t(i,n){return a(n,`browse.divisions.${i}`)}function b(i,n,o){if(o==="ko")return e(i,n);const r=s(i,n);return i?`${t(i,o)} ${r}`:r}function u(i,n){return a(n,`browse.events.${i}`)}export{u as a,t as b,b as l};
