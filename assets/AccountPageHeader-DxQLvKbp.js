@@ -1,0 +1,1 @@
+import{j as e}from"./index-B_DEy7Iq.js";import{P as o}from"./ProductPageHeader-C0icgzlT.js";function s(a){return e.jsx(o,{...a,className:"account-page-header",copyClassName:"account-page-header-copy",actionsClassName:"account-page-header-actions"})}export{s as A};
