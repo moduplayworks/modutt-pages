@@ -1,0 +1,31 @@
+{
+  "retrieved": "2026-10-23",
+  "authorization": "Owner requested reciprocal promotion using existing promotional artwork.",
+  "assets": [
+    {
+      "file": "denny-games-ko-728x90.png",
+      "source": "https://games.iamdenny.com/promo/denny-games-ko-728x90.png",
+      "sha256": "3e5dd7603d19e15407bc90122005c4a70cefb8ada151dec8624a78b5292377da"
+    },
+    {
+      "file": "denny-games-ko-320x100.png",
+      "source": "https://games.iamdenny.com/promo/denny-games-ko-320x100.png",
+      "sha256": "61c7451dd08e052b981b3751c180a8df3d7135d4a3f6255d293a3cc589029176"
+    },
+    {
+      "file": "denny-games-en-728x90.png",
+      "source": "https://games.iamdenny.com/promo/denny-games-en-728x90.png",
+      "sha256": "fcc8251ee57399639721d17d8e2a2be79eca14dd51635ac7152a5eff76dbb289"
+    },
+    {
+      "file": "denny-games-en-320x100.png",
+      "source": "https://games.iamdenny.com/promo/denny-games-en-320x100.png",
+      "sha256": "87db0fbc100acb6df4122de8dc45d34d32fac69b614feb1d5bdb95c06ba5d790"
+    },
+    {
+      "file": "everyday-tools-ko-banner.webp",
+      "source": "https://tools.iamdenny.com/promo-assets/2026-10/banner-preview.webp",
+      "sha256": "0f87aa20a078cdb95cd94d2cc54135960ab0ad63c048c6b2b5b1ffda421abcf6"
+    }
+  ]
+}
