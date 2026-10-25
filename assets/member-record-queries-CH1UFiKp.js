@@ -1,1 +1,0 @@
-import{u as o,c as t}from"./index-C2ul3k6g.js";function c(){const{session:r,repository:s}=o(),e=s?.records;return t({queryKey:["member",r.userId,"records"],enabled:r.status==="authenticated"&&!!e,queryFn:()=>{if(!e)throw new Error("record_repository_unavailable");return e.getWorkspace()},staleTime:3e4,retry:!1,refetchOnWindowFocus:!1})}export{c as u};
