@@ -1,1 +1,0 @@
-import{bt as e,bu as a,t}from"./index-CN-aZ8rW.js";function s(i,n){return t(n,`browse.divisions.${i}`)}function v(i,n,o){if(o==="ko")return e(i,n);const r=a(i,n);return i?`${s(i,o)} ${r}`:r}function b(i,n){return t(n,`browse.events.${i}`)}export{v as a,s as b,b as l};
