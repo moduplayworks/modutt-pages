@@ -1,1 +1,0 @@
-import{bu as t,bv as a,t as e}from"./index-fNgsjZSt.js";function s(i,n){return e(n,`browse.divisions.${i}`)}function u(i,n,o){if(o==="ko")return t(i,n);const r=a(i,n);return i?`${s(i,o)} ${r}`:r}function b(i,n){return e(n,`browse.events.${i}`)}export{u as a,s as b,b as l};
