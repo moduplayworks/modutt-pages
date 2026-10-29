@@ -1,0 +1,1 @@
+import{I as c,j as n,ae as s}from"./index-DMoBOSNE.js";function i(){const{pathname:t,search:o,hash:a}=c(),e=t.startsWith("/account/preview/")?"/account/preview":"/account";return n.jsx(s,{to:e+"/follows"+o+a,replace:!0})}export{i as AccountConnectionsPage};
