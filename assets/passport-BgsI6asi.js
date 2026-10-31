@@ -1,0 +1,1 @@
+import"./passport-records-D9Jc6rcY.js";function n(t){return{participation:t("account.participationResult"),winner:t("account.winnerResult"),runner_up:t("account.runnerUpResult"),third:t("account.thirdResult"),other_award:t("account.otherAwardResult")}}export{n as g};
