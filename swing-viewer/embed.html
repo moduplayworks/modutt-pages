@@ -1,0 +1,97 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex"><title>MODU TT 스윙 뷰어</title>  <script type="module" crossorigin src="./assets/embed-FwQDf8A7.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/model-viewer-B56iVHVR.js">
+  <link rel="modulepreload" crossorigin href="./assets/main-CBkwfBNd.js">
+  <link rel="stylesheet" crossorigin href="./assets/main-DNndrzZ3.css">
+  <link rel="stylesheet" crossorigin href="./assets/embed-B3CFjXkz.css">
+</head><body class="embedded"><main><section id="swing-console" class="swing-console" aria-label="스윙 설정과 재생 스튜디오">
+<section id="spin-settings" aria-labelledby="spin-settings-title">
+<header><h2 id="spin-settings-title"><span class="console-step">01</span> 스윙 설정</h2><button id="settings-toggle" type="button" aria-expanded="false" aria-controls="spin-custom-fields">조절 펼치기</button><button type="button" id="spin-reset">원본 복원</button></header>
+<output id="settings-summary" aria-live="polite">원본 스윙</output>
+<div id="spin-custom-fields" class="spin-controls">
+<p class="spin-apply-hint">변경값은 다음 주인공 스윙부터 적용됩니다.</p><label class="preset-control">패턴<select id="spin-preset"><option value="top">탑스핀</option><option value="topLeft">탑 + 좌횡</option><option value="topRight">탑 + 우횡</option><option value="left">좌횡</option><option value="right">우횡</option><option value="none">무회전</option><option value="manual" disabled>사용자 설정</option></select></label>
+<div><label for="spin-axis">회전축 <output id="spin-axis-value">0°</output></label><input id="spin-axis" type="range" min="-90" max="90" step="1" value="0"><div class="axis-key"><span>좌횡</span><span>탑 + 좌횡</span><span>탑</span><span>탑 + 우횡</span><span>우횡</span></div></div>
+<div><label for="shot-power">파워 <output id="shot-power-value">100%</output></label><input id="shot-power" type="range" min="30" max="200" step="5" value="100"></div><div><label for="spin-rpm">회전량 <output id="spin-rpm-value">1500 rpm</output></label><input id="spin-rpm" type="range" min="0" max="12000" step="50" value="1500"></div>
+</div><details class="spin-help"><summary>적용 범위</summary><p>주인공 → 상대 기준. 비행·바운스·상대 위치에 반영됩니다. <span id="spin-pose-status">손목·전완·라켓 자세는 제한된 보정입니다.</span> 상대 리턴은 입사 속도·회전으로 계산합니다. 발 스텝은 아직 위치 이동으로 표현됩니다.</p></details>
+</section>
+<section id="viewer" aria-label="포핸드 톱스핀 3D 뷰어">
+<model-viewer id="model" src="./models/modutt-native-scene.glb" alt="탁구 선수의 포핸드 톱스핀 동작. 드래그로 회전하고 스크롤 또는 두 손가락으로 확대합니다." camera-controls disable-tap interaction-prompt="none" camera-orbit="180deg 65deg 8.4m" camera-target="3.55m 6.1m 1.8m" min-camera-orbit="auto auto 1m" max-camera-orbit="auto auto 12m" field-of-view="38deg" min-field-of-view="20deg" max-field-of-view="60deg" exposure="1.2" shadow-intensity="1" shadow-softness="1" tone-mapping="aces"></model-viewer>
+<div class="stage-toolbar"><span class="title"><span class="console-step">02</span> 스윙 보기</span><div class="controls" aria-label="뷰어 도구">
+<button id="cop-toggle" class="cop" aria-expanded="false" aria-controls="cop-panel" disabled><span class="tool-icon">◎</span><span>동작 분석</span></button>
+<button id="body-toggle" class="body" aria-expanded="false" aria-controls="body-panel" disabled><span class="tool-icon">⌁</span><span>관절</span></button>
+<button id="path-toggle" aria-pressed="false" disabled><span class="tool-icon">〰</span><span>궤적</span></button>
+<span class="tool-divider"></span>
+<button id="views-toggle" class="views" aria-expanded="false" aria-controls="views-panel"><span class="tool-icon">◇</span><span>시점</span></button>
+<button id="options-toggle" class="options" aria-expanded="false" aria-controls="options-panel"><span class="tool-icon">☷</span><span>장면</span></button>
+</div><button id="fullscreen" class="fullscreen" aria-label="전체 화면" title="전체 화면">⛶</button></div>
+<div class="player-legend" aria-label="캐릭터 구분"><span class="player-primary">● 주인공 · 분석 대상</span><span class="player-opponent">● 상대 선수</span></div>
+<aside id="ball-insights" aria-label="공 분석"><div class="ball-heading"><h2>공 분석</h2></div><div id="ball-speed-hud" hidden><span>공 속도 <strong data-ball-current>—</strong> km/h</span><small>최고 <b data-ball-peak>—</b> km/h · 모델 기준</small></div><details id="ball-detail" open><summary>공 · 바운드와 회전</summary>
+<div class="spin-detail"><svg viewBox="-12 -14 114 120" role="img" aria-label="주인공 뒤에서 상대 방향으로 바라본 공의 입체 회전">
+<defs><radialGradient id="spin-shade" cx="35%" cy="27%" r="75%"><stop stop-color="#fff"/><stop offset=".6" stop-color="#e1eaf4"/><stop offset="1" stop-color="#677b96"/></radialGradient></defs>
+<text x="45" y="-5" text-anchor="middle" fill="#a4b5cc" font-size="7">상대 ↑</text><ellipse cx="45" cy="81" rx="24" ry="5" fill="#050d1c" opacity=".45"/>
+<path id="spin-ring-back" fill="none" stroke="#ffb547" stroke-width="3.5" opacity=".85"/><path id="spin-ring-back-arrow" fill="#31f5dd" stroke="#123c48" stroke-width=".8" stroke-linejoin="round"/><circle cx="45" cy="45" r="30" fill="url(#spin-shade)"/>
+
+<path id="spin-ring-front" fill="none" stroke="#ffb547" stroke-width="3.5"/><path id="spin-ring-arrow" fill="#31f5dd" stroke="#123c48" stroke-width=".8" stroke-linejoin="round"/><circle cx="35" cy="31" r="9" fill="#fff" opacity=".14"/>
+</svg><span>주인공 테이블 기준<strong class="spin-amount"><span id="spin-rate">—</span><span class="spin-unit">rpm</span></strong><small id="spin-direction" hidden></small></span></div><small class="spin-model-note">모델 회전값 · 고리는 방향 안내</small>
+<div class="bounce-caption"><span id="flight-result" aria-live="polite"></span><span id="net-clearance">네트 —</span></div>
+<svg viewBox="0 0 180 62" class="bounce-side" role="img" aria-label="바운스 입사각과 반사각 · 상판 기준">
+<title id="bounce-diagram-title">파랑: 입사 · 빨강: 반사</title>
+<path d="M3 50H177" stroke="#8294ad" stroke-width="1.2"/>
+<path id="bounce-side-path" fill="none" stroke="#f4cc69" stroke-width="2.5"/>
+<path id="bounce-physics-path" fill="none" stroke="#7dcaff" stroke-width="1.5" stroke-dasharray="3 3" opacity=".65"/>
+<path id="bounce-in-arc" fill="none" stroke="#f4cc69" stroke-width="1.3"/>
+<path id="bounce-out-arc" fill="none" stroke="#f4cc69" stroke-width="1.3"/>
+<circle id="bounce-in-dot" r="3.5" fill="#69baff"/><circle id="bounce-out-dot" r="3.5" fill="#ff8078"/>
+<text id="bounce-in-angle" text-anchor="middle" dominant-baseline="middle"></text>
+<text id="bounce-out-angle" text-anchor="middle" dominant-baseline="middle"></text>
+<circle cx="90" cy="50" r="3" fill="#fff2b5"/>
+<path id="bounce-in-arrow" fill="#69baff" stroke="#172131" stroke-width=".7"/><path id="bounce-out-arrow" fill="#ff8078" stroke="#172131" stroke-width=".7"/>
+<path id="bounce-progress" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+<circle id="bounce-moving-ball" r="4" fill="#fff" stroke="#172131" stroke-width="1.4"/>
+</svg>
+<p hidden id="bounce-info" title="원본 모델의 바운스 각도 · 실측 아님"></p><p hidden id="bounce-physics-info" title="물리 예측 · 반발 0.85 / 마찰 0.30 · 원본 3D에는 미적용"></p>
+</details></aside>
+<aside id="position-map" aria-label="선수 위치 미니맵">
+<button id="position-map-toggle" aria-expanded="true" aria-controls="position-map-content">선수 위치 <span>⌃</span></button>
+<div id="position-map-content">
+<div class="map-legend"><span>● 주인공</span><span class="player-opponent">● 상대</span></div>
+<svg id="position-map-svg" viewBox="0 0 220 220" role="img" aria-label="탁구대 기준 선수 위치">
+<text x="110" y="17" text-anchor="middle">상대편</text>
+<rect x="20" y="24" width="180" height="178" rx="12" fill="#1c283a" stroke="#33465f"/>
+<path d="M20 110H200 M110 24V202" stroke="#34465c" stroke-dasharray="3 5"/>
+<rect id="map-table" x="85" y="65" width="50" height="90" rx="2" fill="#454354" stroke="#b0a6c9"/>
+<path d="M81 110H139" stroke="#d2dbe9" stroke-width="2"/>
+<g id="map-primary" fill="#7dcaff" stroke="#7dcaff"><polyline id="map-primary-trail" fill="none" stroke-width="2" opacity=".5"/><circle id="map-primary-dot" r="5" stroke="#182435" stroke-width="2"/></g>
+<g id="map-opponent" fill="#ff9a7a" stroke="#ff9a7a"><polyline id="map-opponent-trail" fill="none" stroke-width="2" opacity=".5"/><circle id="map-opponent-dot" r="5" stroke="#182435" stroke-width="2"/></g>
+<g id="ball-map-layer"><polyline id="map-ball-path" fill="none" stroke="#f4cc69" stroke-width="1.6"/><circle id="map-bounce-0" r="4" fill="none" stroke="#f4cc69"/><circle id="map-bounce-1" r="4" fill="none" stroke="#f4cc69"/><circle id="map-ball" r="3" fill="#fff2b5"/></g>
+<text x="110" y="216" text-anchor="middle">주인공 쪽</text>
+</svg>
+<p id="position-map-status">위치 불러오는 중…</p><small>발 사이 중심 · 최근 1.2초<br>애니메이션 좌표 · 실측 아님</small>
+</div></aside>
+<div class="stage-hint">드래그로 회전 · 스크롤로 확대</div>
+<div id="loading" role="status"><span id="load-message">3D 동작을 불러오는 중…</span><button id="retry" hidden>다시 시도</button></div>
+
+<div id="notice" role="status" hidden></div>
+<div id="speed-panel" class="panel" hidden><label for="speed">재생 속도</label><input id="speed" type="range" min="0" max="2" step="0.1" value="1"><output id="speed-value" for="speed">1.0×</output></div>
+<aside id="options-panel" class="analysis-panel" aria-label="뷰어 옵션" hidden><div class="panel-heading"><strong>장면 설정</strong><button data-close aria-label="옵션 닫기">×</button></div><label class="option-row"><span>탁구대 표시</span><input id="option-table" type="checkbox" checked disabled></label><label class="option-row"><span>상대 선수 표시</span><input id="option-opponent" type="checkbox" checked disabled></label><label class="option-row"><span>공 표시</span><input id="option-ball" type="checkbox" checked disabled></label><label class="option-row"><span>공 속도 표시</span><input id="option-ball-speed" type="checkbox" checked></label><label class="option-row"><span>공 바운드·회전 분석</span><input id="option-ball-analysis" type="checkbox" checked></label><label class="option-row"><span>선수 위치 미니맵</span><input id="option-position-map" type="checkbox" checked></label><label class="option-row"><span>바닥 격자 표시</span><input id="option-floor" type="checkbox" checked disabled></label><fieldset class="hand-choice"><legend>주인공 사용 손</legend><label><input type="radio" name="primary-hand" value="right" checked>오른손</label><label><input type="radio" name="primary-hand" value="left">왼손</label></fieldset><fieldset class="hand-choice"><legend>상대 사용 손</legend><label><input type="radio" name="opponent-hand" value="right" checked>오른손</label><label><input type="radio" name="opponent-hand" value="left">왼손</label></fieldset><small>선수별로 기존 스윙을 좌우 대칭 적용합니다.</small><label class="scrub-label" for="option-exposure">밝기 <output id="exposure-value" for="option-exposure">1.2</output></label><input id="option-exposure" type="range" min="0.5" max="3" step="0.1" value="1.2"><button id="options-reset" class="reset-button">장면 초기화</button></aside>
+<aside id="views-panel" class="analysis-panel" aria-label="시점 선택" hidden><div class="panel-heading"><strong>시점</strong><button data-close aria-label="시점 닫기">×</button></div><div class="view-grid">
+<button data-view="front" aria-pressed="false">정면</button><button data-view="back" aria-pressed="false">후면</button><button data-view="left" aria-pressed="false">왼쪽</button><button data-view="right" aria-pressed="false">오른쪽</button><button data-view="top" aria-pressed="false">위에서</button><button data-view="diagonal" aria-pressed="false">대각선</button></div><small>선수 기준이 아닌 초기 카메라 기준입니다.</small></aside>
+<aside id="body-panel" class="analysis-panel" aria-label="신체 움직임" hidden><div class="panel-heading"><strong>관절 각도</strong><button data-close aria-label="신체 움직임 닫기">×</button></div><small>3D 관절 기준 · 안쪽 각도</small><dl><div><dt>오른 팔꿈치</dt><dd id="elbow-angle">—</dd></div><div><dt>왼 무릎</dt><dd id="left-knee-angle">—</dd></div><div><dt>오른 무릎</dt><dd id="right-knee-angle">—</dd></div><div><dt>몸통 기울기</dt><dd id="trunk-angle">—</dd></div></dl><button id="motion-play">Ⅱ 일시 정지</button><label class="scrub-label" for="motion-time">동작 구간</label><input id="motion-time" type="range" min="0" max="3.1" step="0.01" value="0"><output id="motion-clock" for="motion-time"></output></aside>
+<aside id="cop-panel" class="analysis-panel cop-analysis" aria-label="동작 분석" hidden>
+<div class="cop-heading"><strong>스윙 인사이트 <em>동작 분석</em></strong><span>모델 기반 수치 · COP 실측값이 아닌 골반 투영 표시</span><button data-close aria-label="동작 분석 닫기">×</button></div>
+<svg id="cop-overlay" aria-hidden="true"></svg>
+<div class="metric-card metric-left metric-row-1" data-metric="lean"><span>상체 숙임</span><strong id="cop-lean">—</strong><small>수직선 기준</small></div>
+<div class="metric-card metric-left metric-row-2" data-metric="twist"><span>상체 꼬임</span><strong id="cop-twist">—</strong><small>어깨 ↔ 골반</small></div>
+<div class="metric-card metric-left metric-row-3" data-metric="knee"><span>오른 무릎 각도</span><strong id="cop-knee">—</strong><small>관절 안쪽 각도</small></div>
+<div class="metric-card metric-right metric-row-1" data-metric="incline"><div class="racket-angle-pair"><div><span>라켓 면 각도</span><strong id="cop-racket-angle">—</strong></div><div><span>스윙 경사</span><strong id="cop-incline">—</strong></div></div><small>탁구대 기준 · 평행 0° / 수직 90°</small></div>
+<div class="metric-card metric-right metric-row-2" data-metric="speed"><span>스윙 속도</span><strong id="cop-speed">—</strong><small>라켓 면 중심 · 원본 기준</small></div>
+<div class="metric-card metric-right metric-row-3" data-metric="elbow"><span>오른 팔꿈치</span><strong id="cop-elbow">—</strong><small>관절 안쪽 각도</small></div>
+<div class="metric-card metric-left metric-row-4 peak-card"><span>라켓 최고속도</span><strong><b id="cop-peak">—</b><small> km/h</small></strong><button id="cop-peak-jump">최고 순간 보기</button></div>
+<div class="metric-card metric-right metric-row-4 ball-card"><span>공 속도</span><strong><b data-ball-current>—</b><small> km/h</small></strong><small>최고 <b data-ball-peak>—</b> km/h</small></div>
+<div class="cop-legend"><span class="pink">━ 골반 축</span><span class="mint">━ 어깨 축</span><span class="gold">● 골반 바닥 투영</span></div>
+<div class="cop-footer"><div class="cop-playback"><button id="cop-play">Ⅱ 정지</button><label class="sr-only" for="cop-time">분석할 동작 시각</label><input id="cop-time" type="range" min="0" max="3.1" step="0.01" value="0"><output id="cop-clock" for="cop-time">0.00초</output></div></div>
+</aside>
+<div class="transport" aria-label="동작 재생 제어"><button id="transport-play" class="play-button" aria-label="재생" disabled><span id="play-symbol">▶</span></button><div class="frame-buttons"><button id="frame-back" aria-label="이전 프레임" title="이전 프레임 (←)" disabled>‹</button><button id="frame-next" aria-label="다음 프레임" title="다음 프레임 (→)" disabled>›</button></div><div class="timeline"><div class="timeline-caption"><span id="play-state">불러오는 중</span><output id="transport-clock" for="transport-time">0.00 / 0.00초</output></div><label for="transport-time" class="sr-only">동작 구간 탐색</label><input id="transport-time" type="range" min="0" max="3.1" step="0.001" value="0" disabled></div><button id="speed-toggle" class="speed-trigger" aria-expanded="false" aria-controls="speed-panel"><span id="transport-rate">1.0×</span><small>재생 속도</small></button></div>
+</section>
+
+</section>
+<p id="analysis-status" hidden></p><span id="clip-duration" hidden></span></main></body></html>

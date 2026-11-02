@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 240" role="img" aria-labelledby="title desc">
+  <title id="title">MODU TT primary logo</title>
+  <desc id="desc">Angular black MODU lettering and white TT inside a rounded signal-red rectangle.</desc>
+  <g fill="#0B0D12">
+    <path d="M20 180V40h38l27 60 27-60h38v140h-38v-78l-27 58-27-58v78z"/>
+    <path fill-rule="evenodd" d="M180 58l18-18h104l18 18v104l-18 18H198l-18-18zm42 20v64l8 8h42l8-8V78l-8-8h-42z"/>
+    <path fill-rule="evenodd" d="M350 40h95l45 45v50l-45 45h-95zm42 35v70h35l21-21V96l-21-21z"/>
+    <path d="M520 40h42v100l10 10h38l10-10V40h42v114l-26 26h-90l-26-26z"/>
+  </g>
+  <rect x="700" y="40" width="250" height="140" rx="22" fill="#F2263D"/>
+  <g fill="#fff">
+    <path d="M735 72h72v26h-23v50h-26V98h-23z"/>
+    <path d="M843 72h72v26h-23v50h-26V98h-23z"/>
+  </g>
+  <text x="22" y="222" fill="#0B0D12" font-family="Arial Narrow, Helvetica Neue, sans-serif" font-size="25" font-weight="700" letter-spacing="9">FACE THE RALLY</text>
+</svg>

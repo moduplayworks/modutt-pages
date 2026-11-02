@@ -1,1 +1,0 @@
-import{V as n,Q as a}from"./variety-quiz-C992X0WJ.js";const r=[...n,...a];function Q(o){let t=2166136261;for(const i of o)t=Math.imul(t^i.charCodeAt(0),16777619)>>>0;return`q1-${t.toString(36)}`}function u(o){return r.find(t=>t.id===o||Q(t.id)===o)}export{r as A,u as f,Q as q};

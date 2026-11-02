@@ -1,1 +1,0 @@
-import{T as c,j as n,af as s}from"./index-CqSFPSKg.js";function i(){const{pathname:t,search:o,hash:a}=c(),e=t.startsWith("/account/preview/")?"/account/preview":"/account";return n.jsx(s,{to:e+"/follows"+o+a,replace:!0})}export{i as AccountConnectionsPage};

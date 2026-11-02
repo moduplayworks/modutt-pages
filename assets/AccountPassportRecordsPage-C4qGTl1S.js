@@ -1,1 +1,0 @@
-import{a5 as e,Q as r,j as s,af as o,a6 as c,a7 as n}from"./index-CqSFPSKg.js";function p(){const{preview:a}=e(),[t]=r();return s.jsx(o,{replace:!0,to:c("records",n(t.get("returnTo")),a)})}export{p as AccountPassportRecordsPage};
