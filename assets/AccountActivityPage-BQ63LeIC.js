@@ -1,0 +1,1 @@
+import{a6 as o,T as a,j as c,af as n}from"./index-BXKNeIHC.js";function i(){const{preview:e}=o(),{search:t}=a();return c.jsx(n,{replace:!0,to:e?`/account/preview${t}`:`/join/mine${t}`})}export{i as AccountActivityPage};
