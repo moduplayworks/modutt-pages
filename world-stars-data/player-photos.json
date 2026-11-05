@@ -5,7 +5,16 @@
       "id": "men-sora-matsushima",
       "name": "Sora MATSUSHIMA",
       "gender": "men",
-      "photo": null
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/135996_Headshot_R_Sora%20MATSUSHIMA.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135996",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135996",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135996",
+        "sha256": "48f9c50cf0d8ee327c3412dd5fedf992e31178ffcd2b1160272b46db628902ff"
+      }
     },
     {
       "id": "men-felix-lebrun",
@@ -123,7 +132,16 @@
       "id": "men-lin-shidong",
       "name": "LIN Shidong",
       "gender": "men",
-      "photo": null
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/137237_Headshot_R_LIN_Shidong.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=137237",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=137237",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=137237",
+        "sha256": "0858756da4c717b563b9847257206f368d789d0573351e6a09552d519ec88e88"
+      }
     },
     {
       "id": "men-dang-qiu",
@@ -143,19 +161,46 @@
       "id": "men-zhou-qihao",
       "name": "ZHOU Qihao",
       "gender": "men",
-      "photo": null
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/119533_Headshot_R_ZHOU%20Qihao.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=119533",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=119533",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=119533",
+        "sha256": "9ab276a3d607326c8de10a221e10961a3255c949bd133cf4bd1e3857b2ea3b93"
+      }
     },
     {
       "id": "men-darko-jorgic",
       "name": "Darko JORGIC",
       "gender": "men",
-      "photo": null
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/118927_Headshot_R_Darko%20JORGIC.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=118927",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=118927",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=118927",
+        "sha256": "b11f18e8fe9324505b52540b7c1b870b3c4a45368b6c963c7d2f02b7bf29b1db"
+      }
     },
     {
       "id": "men-wen-ruibo",
       "name": "WEN Ruibo",
       "gender": "men",
-      "photo": null
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/203067_Headshot_R_WEN%20Ruibo.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=203067",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=203067",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=203067",
+        "sha256": "5660639a0090d0f3e0958355c5c20ca70a0d867edf8efc342f86c1aaa7985be7"
+      }
     },
     {
       "id": "men-patrick-franziska",
@@ -175,31 +220,75 @@
       "id": "men-shunsuke-togami",
       "name": "Shunsuke TOGAMI",
       "gender": "men",
-      "photo": null
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/133694_HEADSHOT_R_Shunsuke_TOGAMI.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=133694",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=133694",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=133694",
+        "sha256": "07a3115d1d89f385d2c8fdf27d91916298257053c80d4b926a4246236e4a2914"
+      }
     },
     {
       "id": "men-anders-lind",
       "name": "Anders LIND",
       "gender": "men",
-      "photo": null
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/115029_HEADSHOT_R_Anders_LIND.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=115029",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=115029",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=115029",
+        "sha256": "a794d66548fb3ae41d40d054d0bb598ca15e7cb9f02bb81f1108fa8280a3850c"
+      }
     },
     {
       "id": "men-vladimir-sidorenko",
       "name": "Vladimir SIDORENKO",
       "gender": "men",
-      "photo": null
+      "photo": {
+        "src": "/world-stars-data/photos/men-vladimir-sidorenko.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vladimir_Sidorenko_(table_tennis)-001.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "Vladimir Mirskiy (Владимир Израилович Мирский)",
+        "articleUrl": "https://en.wikipedia.org/wiki/Vladimir_Sidorenko_(table_tennis)",
+        "sha256": "2ae06be7822e0108364db9324a54cb5ca847a59a7c490bb4c6849e70f688089c"
+      }
     },
     {
       "id": "men-oh-junsung",
       "name": "OH Junsung",
       "gender": "men",
-      "photo": null
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/135367_Headshot_R_OH%20Junsung.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135367",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135367",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135367",
+        "sha256": "cbc2df9103fec3ebbc7de01db35a88be3af6fe844ad5d33e733997102a093849"
+      }
     },
     {
       "id": "men-hiroto-shinozuka",
       "name": "Hiroto SHINOZUKA",
       "gender": "men",
-      "photo": null
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/134442_Headshot_R_SHINOZUKA_Hiroto.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=134442",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=134442",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=134442",
+        "sha256": "5823a78de935c7a3ff4f66f310629b788f40de698e40132fe489a57920098743"
+      }
     },
     {
       "id": "women-wang-manyu",
@@ -247,13 +336,31 @@
       "id": "women-kuai-man",
       "name": "KUAI Man",
       "gender": "women",
-      "photo": null
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/135049_Headshot_R_KUAI_Man.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135049",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135049",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135049",
+        "sha256": "123f6da22a6aa88491e0b80afdd341e61d3566cf4d3f7163991e9a1e08970761"
+      }
     },
     {
       "id": "women-wang-yidi",
       "name": "WANG Yidi",
       "gender": "women",
-      "photo": null
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/124110_Headshot_R_WANG_Yidi.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=124110",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=124110",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=124110",
+        "sha256": "113c75bab85300f024103e77bea9b368331366624202f37e66c7caf13548f350"
+      }
     },
     {
       "id": "women-hina-hayata",
@@ -287,13 +394,30 @@
       "id": "women-chen-yi",
       "name": "CHEN Yi",
       "gender": "women",
-      "photo": null
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/132132_Headshot_R_CHEN_Yi.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=132132",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=132132",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=132132",
+        "sha256": "1fda11fdb91f416bc5c36b7641d151cef7d24fdeea8988968f40c49f19b5c32c"
+      }
     },
     {
       "id": "women-hitomi-sato",
       "name": "Hitomi SATO",
       "gender": "women",
-      "photo": null
+      "photo": {
+        "src": "/world-stars-data/photos/women-hitomi-sato.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hitomi_Sato_ATTC2017_(cropped).jpg",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "author": "XIAOYU TANG",
+        "articleUrl": "https://en.wikipedia.org/wiki/Hitomi_Sat%C5%8D_(table_tennis)",
+        "sha256": "b85a0e644bb0fce63e414395c410363c5aca5ff30713997751de569627145194"
+      }
     },
     {
       "id": "women-zhu-yuling",
@@ -369,7 +493,16 @@
       "id": "women-shi-xunyao",
       "name": "SHI Xunyao",
       "gender": "women",
-      "photo": null
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/123120_HEADSHOT_R_SHI_Xunyao.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=123120",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=123120",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=123120",
+        "sha256": "113e05d93f70404de669eb8e628c9c289d8fcd49448a9ed50c834c2b7e29b325"
+      }
     },
     {
       "id": "women-ying-han",
@@ -389,7 +522,16 @@
       "id": "women-joo-cheonhui",
       "name": "JOO Cheonhui",
       "gender": "women",
-      "photo": null
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/200413_HEADSHOT_R_JOO_Cheonhui.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=200413",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=200413",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=200413",
+        "sha256": "698a91c2e5947efe82c97c075a51b05be0191316affefbafc9c307b63fb2d9d0"
+      }
     },
     {
       "id": "women-miyu-nagasaki",
@@ -410,20 +552,30 @@
       "name": "Miyuu KIHARA",
       "gender": "women",
       "photo": {
-        "src": "/world-stars-data/photos/women-miyuu-kihara.png",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miyuu_Kihara_signature.png",
-        "license": "CC BY 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-        "author": "木原美悠",
-        "articleUrl": "https://en.wikipedia.org/wiki/Miyuu_Kihara",
-        "sha256": "a1c65ebe17e40a0bfcb4a45bbe56085c49e684910d9f48417cc1e84f0deac0b4"
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/131036_Headshot_R_Miyuu%20KIHARA.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=131036",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=131036",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=131036",
+        "sha256": "c11c0dff52c2e41ee9de8e91f756b3c2cfd3ec4aacffd4057315b68c4426d1c1"
       }
     },
     {
       "id": "women-adriana-diaz",
       "name": "Adriana DIAZ",
       "gender": "women",
-      "photo": null
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/115009_HEADSHOT_R_Adriana_DIAZ.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=115009",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=115009",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=115009",
+        "sha256": "d26f632edcb7b6472c55ffc97615ace6ce57318c10fd573d804ab57a6d2f6779"
+      }
     }
   ]
 }

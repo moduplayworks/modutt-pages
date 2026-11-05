@@ -7,7 +7,16 @@
       "nameKo": "마쓰시마 소라",
       "gender": "men",
       "association": "JPN",
-      "photo": null,
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/135996_Headshot_R_Sora%20MATSUSHIMA.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135996",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135996",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135996",
+        "sha256": "48f9c50cf0d8ee327c3412dd5fedf992e31178ffcd2b1160272b46db628902ff"
+      },
       "videos": [
         {
           "id": "MevjWc8lkfI",
@@ -23,7 +32,7 @@
           "title": "마쓰시마 소라 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:03.905Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/BbYrPG87jII/hqdefault.jpg"
         },
         {
           "id": "qnnk6ZwgiXI",
@@ -31,7 +40,7 @@
           "title": "마쓰시마 소라 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:03.905Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/qnnk6ZwgiXI/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -81,7 +90,7 @@
           "title": "펠릭스 르브렁 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:05.811Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/iyE-V87iRqM/hqdefault.jpg"
         },
         {
           "id": "C6S6NmEqdAU",
@@ -89,7 +98,7 @@
           "title": "펠릭스 르브렁 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:05.811Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/C6S6NmEqdAU/hqdefault.jpg"
         },
         {
           "id": "kbzokulZBh4",
@@ -97,7 +106,7 @@
           "title": "펠릭스 르브렁 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:05.811Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/kbzokulZBh4/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -154,7 +163,7 @@
           "title": "하리모토 토모카즈 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:07.538Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/T-6ZfzBtVk0/hqdefault.jpg"
         },
         {
           "id": "I2wcQBYm0eI",
@@ -162,7 +171,7 @@
           "title": "하리모토 토모카즈 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:07.538Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/I2wcQBYm0eI/hqdefault.jpg"
         },
         {
           "id": "jTUsxrwgops",
@@ -170,7 +179,7 @@
           "title": "하리모토 토모카즈 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:07.538Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/jTUsxrwgops/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -220,7 +229,7 @@
           "title": "왕추친 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:09.174Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/1BHkbPVbF7s/hqdefault.jpg"
         },
         {
           "id": "7nBUXOOWgwU",
@@ -228,7 +237,7 @@
           "title": "왕추친 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:09.174Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/7nBUXOOWgwU/hqdefault.jpg"
         },
         {
           "id": "_TP_R2GL16Y",
@@ -236,7 +245,7 @@
           "title": "왕추친 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:09.174Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/_TP_R2GL16Y/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -280,7 +289,7 @@
           "title": "트룰스 뫼레고르 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:10.923Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/Ex0Q0aNmE1U/hqdefault.jpg"
         },
         {
           "id": "ZALmA5MaqoE",
@@ -288,7 +297,7 @@
           "title": "트룰스 뫼레고르 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:10.923Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/ZALmA5MaqoE/hqdefault.jpg"
         },
         {
           "id": "8dMXG06mrJY",
@@ -296,7 +305,7 @@
           "title": "트룰스 뫼레고르 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:10.923Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/8dMXG06mrJY/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -345,7 +354,7 @@
           "title": "린윤주 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:12.766Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/pLYmtxpKr_0/hqdefault.jpg"
         },
         {
           "id": "shrAdamlupE",
@@ -353,7 +362,7 @@
           "title": "린윤주 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:12.766Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/shrAdamlupE/hqdefault.jpg"
         },
         {
           "id": "lIG1ZIHdWbM",
@@ -361,7 +370,7 @@
           "title": "린윤주 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:12.766Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/lIG1ZIHdWbM/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -411,7 +420,7 @@
           "title": "우고 칼데라노 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:14.441Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/wluENmRd01Q/hqdefault.jpg"
         },
         {
           "id": "JEMSN_sY5AU",
@@ -419,7 +428,7 @@
           "title": "우고 칼데라노 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:14.441Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/JEMSN_sY5AU/hqdefault.jpg"
         },
         {
           "id": "eg5GWck3ewc",
@@ -427,7 +436,7 @@
           "title": "우고 칼데라노 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:14.441Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/eg5GWck3ewc/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -474,7 +483,7 @@
           "title": "장우진 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:16.047Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/kfXzhRoZZiA/hqdefault.jpg"
         },
         {
           "id": "XIwHadRoufE",
@@ -482,7 +491,7 @@
           "title": "장우진 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:16.047Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/XIwHadRoufE/hqdefault.jpg"
         },
         {
           "id": "J5g15GqTbEg",
@@ -490,7 +499,7 @@
           "title": "장우진 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:16.047Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/J5g15GqTbEg/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -537,7 +546,7 @@
           "title": "알렉시스 르브렁 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:17.616Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/G5v8llliB9w/hqdefault.jpg"
         },
         {
           "id": "YVNOxAM3pQs",
@@ -545,7 +554,7 @@
           "title": "알렉시스 르브렁 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:17.616Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/YVNOxAM3pQs/hqdefault.jpg"
         },
         {
           "id": "U4IMuqtHjXI",
@@ -553,7 +562,7 @@
           "title": "알렉시스 르브렁 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:17.616Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/U4IMuqtHjXI/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -578,7 +587,16 @@
       "nameKo": "린스둥",
       "gender": "men",
       "association": "CHN",
-      "photo": null,
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/137237_Headshot_R_LIN_Shidong.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=137237",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=137237",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=137237",
+        "sha256": "0858756da4c717b563b9847257206f368d789d0573351e6a09552d519ec88e88"
+      },
       "videos": [
         {
           "id": "ZALmA5MaqoE",
@@ -594,7 +612,7 @@
           "title": "트룰스 뫼레고르 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:10.923Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/8dMXG06mrJY/hqdefault.jpg"
         },
         {
           "id": "lRhdNlYV9ig",
@@ -602,7 +620,7 @@
           "title": "린스둥 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:19.223Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/lRhdNlYV9ig/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -651,7 +669,7 @@
           "title": "당치우 대 안재현 · 2026 요코하마 32강",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:00:38.964868+00:00",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/XUX37ASmUeM/hqdefault.jpg"
         },
         {
           "id": "QhfC7v6c1Rk",
@@ -659,7 +677,7 @@
           "title": "당치우 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:21.024Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/QhfC7v6c1Rk/hqdefault.jpg"
         },
         {
           "id": "qPLfoJXyfsY",
@@ -667,7 +685,7 @@
           "title": "당치우 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:21.024Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/qPLfoJXyfsY/hqdefault.jpg"
         },
         {
           "id": "gufOceDrSJA",
@@ -675,7 +693,7 @@
           "title": "당치우 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:21.024Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/gufOceDrSJA/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -701,7 +719,16 @@
       "nameKo": "저우치하오",
       "gender": "men",
       "association": "CHN",
-      "photo": null,
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/119533_Headshot_R_ZHOU%20Qihao.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=119533",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=119533",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=119533",
+        "sha256": "9ab276a3d607326c8de10a221e10961a3255c949bd133cf4bd1e3857b2ea3b93"
+      },
       "videos": [
         {
           "id": "MaUAOBVX9hM",
@@ -717,7 +744,7 @@
           "title": "저우치하오 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:22.907Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/wqsD8KmJJrk/hqdefault.jpg"
         },
         {
           "id": "EdveZu_vZj4",
@@ -725,7 +752,7 @@
           "title": "저우치하오 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:22.907Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/EdveZu_vZj4/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -737,7 +764,16 @@
       "nameKo": "다르코 요르기치",
       "gender": "men",
       "association": "SLO",
-      "photo": null,
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/118927_Headshot_R_Darko%20JORGIC.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=118927",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=118927",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=118927",
+        "sha256": "b11f18e8fe9324505b52540b7c1b870b3c4a45368b6c963c7d2f02b7bf29b1db"
+      },
       "videos": [
         {
           "id": "pLYmtxpKr_0",
@@ -753,7 +789,7 @@
           "title": "다르코 요르기치 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:24.683Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/f-gHJTSil38/hqdefault.jpg"
         },
         {
           "id": "E9CUncS6ODg",
@@ -761,7 +797,7 @@
           "title": "다르코 요르기치 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:24.683Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/E9CUncS6ODg/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -787,7 +823,16 @@
       "nameKo": "원루이보",
       "gender": "men",
       "association": "CHN",
-      "photo": null,
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/203067_Headshot_R_WEN%20Ruibo.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=203067",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=203067",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=203067",
+        "sha256": "5660639a0090d0f3e0958355c5c20ca70a0d867edf8efc342f86c1aaa7985be7"
+      },
       "videos": [
         {
           "id": "RK-iG_cF_RI",
@@ -803,7 +848,7 @@
           "title": "원루이보 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:26.667Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/63n23ax07Gk/hqdefault.jpg"
         },
         {
           "id": "HKqOZk0J4mM",
@@ -811,7 +856,7 @@
           "title": "원루이보 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:26.667Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/HKqOZk0J4mM/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -847,7 +892,7 @@
           "title": "알렉시스 르브렁 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:17.616Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/YVNOxAM3pQs/hqdefault.jpg"
         },
         {
           "id": "IXpBo-FlyY0",
@@ -855,7 +900,7 @@
           "title": "파트리크 프란치스카 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:28.346Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/IXpBo-FlyY0/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -881,7 +926,16 @@
       "nameKo": "도가미 슌스케",
       "gender": "men",
       "association": "JPN",
-      "photo": null,
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/133694_HEADSHOT_R_Shunsuke_TOGAMI.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=133694",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=133694",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=133694",
+        "sha256": "07a3115d1d89f385d2c8fdf27d91916298257053c80d4b926a4246236e4a2914"
+      },
       "videos": [
         {
           "id": "lg32ZSfg7vc",
@@ -897,7 +951,7 @@
           "title": "도가미 슌스케 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:30.122Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/0JwF-vYHDDc/hqdefault.jpg"
         },
         {
           "id": "3oLrizcdHMU",
@@ -905,7 +959,7 @@
           "title": "도가미 슌스케 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:30.122Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/3oLrizcdHMU/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -931,7 +985,16 @@
       "nameKo": "안데르스 린드",
       "gender": "men",
       "association": "DEN",
-      "photo": null,
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/115029_HEADSHOT_R_Anders_LIND.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=115029",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=115029",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=115029",
+        "sha256": "a794d66548fb3ae41d40d054d0bb598ca15e7cb9f02bb81f1108fa8280a3850c"
+      },
       "videos": [
         {
           "id": "1BHkbPVbF7s",
@@ -947,7 +1010,7 @@
           "title": "안데르스 린드 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:31.965Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/hk00mpmyylE/hqdefault.jpg"
         },
         {
           "id": "8bd5ZZcnyqk",
@@ -955,7 +1018,7 @@
           "title": "안데르스 린드 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:31.965Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/8bd5ZZcnyqk/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -967,7 +1030,15 @@
       "nameKo": "블라디미르 시도렌코",
       "gender": "men",
       "association": "RUS",
-      "photo": null,
+      "photo": {
+        "src": "/world-stars-data/photos/men-vladimir-sidorenko.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vladimir_Sidorenko_(table_tennis)-001.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "Vladimir Mirskiy (Владимир Израилович Мирский)",
+        "articleUrl": "https://en.wikipedia.org/wiki/Vladimir_Sidorenko_(table_tennis)",
+        "sha256": "2ae06be7822e0108364db9324a54cb5ca847a59a7c490bb4c6849e70f688089c"
+      },
       "videos": [
         {
           "id": "JEMSN_sY5AU",
@@ -983,7 +1054,7 @@
           "title": "블라디미르 시도렌코 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:33.536Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/CH5IJ54POtk/hqdefault.jpg"
         },
         {
           "id": "wgVgPBRKzDA",
@@ -991,7 +1062,7 @@
           "title": "블라디미르 시도렌코 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:33.536Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/wgVgPBRKzDA/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -1003,7 +1074,16 @@
       "nameKo": "오준성",
       "gender": "men",
       "association": "KOR",
-      "photo": null,
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/135367_Headshot_R_OH%20Junsung.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135367",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135367",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135367",
+        "sha256": "cbc2df9103fec3ebbc7de01db35a88be3af6fe844ad5d33e733997102a093849"
+      },
       "videos": [
         {
           "id": "MaUAOBVX9hM",
@@ -1019,7 +1099,7 @@
           "title": "오준성 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:35.123Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/OJQdC9Wyqb0/hqdefault.jpg"
         },
         {
           "id": "0RQpWvytmeI",
@@ -1027,7 +1107,7 @@
           "title": "오준성 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:35.123Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/0RQpWvytmeI/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -1039,7 +1119,16 @@
       "nameKo": "시노즈카 히로토",
       "gender": "men",
       "association": "JPN",
-      "photo": null,
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/134442_Headshot_R_SHINOZUKA_Hiroto.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=134442",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=134442",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=134442",
+        "sha256": "5823a78de935c7a3ff4f66f310629b788f40de698e40132fe489a57920098743"
+      },
       "videos": [
         {
           "id": "ru-zhWArTEA",
@@ -1055,7 +1144,7 @@
           "title": "시노즈카 히로토 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:36.871Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/x4mK1P4VD6M/hqdefault.jpg"
         },
         {
           "id": "VoR4lUWfa2g",
@@ -1063,7 +1152,7 @@
           "title": "시노즈카 히로토 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:08:36.871Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/VoR4lUWfa2g/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -1113,7 +1202,7 @@
           "title": "왕만위 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:14.693Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/zLd1aadwMjQ/hqdefault.jpg"
         },
         {
           "id": "uUl5PAqDa4Y",
@@ -1121,7 +1210,7 @@
           "title": "왕만위 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:14.693Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/uUl5PAqDa4Y/hqdefault.jpg"
         },
         {
           "id": "DhYy78V3jAM",
@@ -1129,7 +1218,7 @@
           "title": "왕만위 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:14.693Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/DhYy78V3jAM/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -1186,7 +1275,7 @@
           "title": "콰이만 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:09:21.652Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/FXOJeSjc1qo/hqdefault.jpg"
         },
         {
           "id": "GjGt2DzpF1w",
@@ -1194,7 +1283,7 @@
           "title": "콰이만 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:09:21.652Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/GjGt2DzpF1w/hqdefault.jpg"
         },
         {
           "id": "YIYVRuYobBE",
@@ -1202,7 +1291,7 @@
           "title": "쑨잉사 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:16.691Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/YIYVRuYobBE/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -1253,7 +1342,7 @@
           "title": "콰이만 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:09:21.652Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/4835rN6ArlE/hqdefault.jpg"
         },
         {
           "id": "l2IBQmzlxmA",
@@ -1261,7 +1350,7 @@
           "title": "하리모토 미와 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:22.609Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/l2IBQmzlxmA/hqdefault.jpg"
         },
         {
           "id": "eBf0sosuD1A",
@@ -1269,7 +1358,7 @@
           "title": "하리모토 미와 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:22.609Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/eBf0sosuD1A/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -1295,7 +1384,16 @@
       "nameKo": "콰이만",
       "gender": "women",
       "association": "CHN",
-      "photo": null,
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/135049_Headshot_R_KUAI_Man.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135049",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135049",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=135049",
+        "sha256": "123f6da22a6aa88491e0b80afdd341e61d3566cf4d3f7163991e9a1e08970761"
+      },
       "videos": [
         {
           "id": "FXOJeSjc1qo",
@@ -1311,7 +1409,7 @@
           "title": "콰이만 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:09:21.652Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/4835rN6ArlE/hqdefault.jpg"
         },
         {
           "id": "GjGt2DzpF1w",
@@ -1319,7 +1417,7 @@
           "title": "콰이만 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:09:21.652Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/GjGt2DzpF1w/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -1331,7 +1429,16 @@
       "nameKo": "왕이디",
       "gender": "women",
       "association": "CHN",
-      "photo": null,
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/124110_Headshot_R_WANG_Yidi.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=124110",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=124110",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=124110",
+        "sha256": "113c75bab85300f024103e77bea9b368331366624202f37e66c7caf13548f350"
+      },
       "videos": [
         {
           "id": "bxjaI2HxysE",
@@ -1347,7 +1454,7 @@
           "title": "왕이디 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:09:23.864Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/9FeheiTKt58/hqdefault.jpg"
         },
         {
           "id": "8lY-EU1b7Ag",
@@ -1355,7 +1462,7 @@
           "title": "왕이디 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:09:23.864Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/8lY-EU1b7Ag/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -1391,7 +1498,7 @@
           "title": "하야타 히나 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:09:25.647Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/u_F90Z2Cpos/hqdefault.jpg"
         },
         {
           "id": "Z-h9ajuw4p4",
@@ -1399,7 +1506,7 @@
           "title": "하야타 히나 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:09:25.647Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/Z-h9ajuw4p4/hqdefault.jpg"
         },
         {
           "id": "4rTFxbubzFg",
@@ -1407,7 +1514,7 @@
           "title": "하야타 히나 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:09:25.647Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/4rTFxbubzFg/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -1454,7 +1561,7 @@
           "title": "천싱퉁 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:09:27.763Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/TTXNZ3a4kmM/hqdefault.jpg"
         },
         {
           "id": "KVsHzjcW0Y8",
@@ -1462,7 +1569,7 @@
           "title": "천싱퉁 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:09:27.763Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/KVsHzjcW0Y8/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -1474,7 +1581,16 @@
       "nameKo": "천이",
       "gender": "women",
       "association": "CHN",
-      "photo": null,
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/132132_Headshot_R_CHEN_Yi.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=132132",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=132132",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=132132",
+        "sha256": "1fda11fdb91f416bc5c36b7641d151cef7d24fdeea8988968f40c49f19b5c32c"
+      },
       "videos": [
         {
           "id": "7WhubvVA2g0",
@@ -1490,7 +1606,7 @@
           "title": "천이 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:24.674Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/m5z_bgSJxEs/hqdefault.jpg"
         },
         {
           "id": "blm4DfmSaKc",
@@ -1498,7 +1614,7 @@
           "title": "천이 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:24.674Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/blm4DfmSaKc/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -1510,7 +1626,15 @@
       "nameKo": "사토 히토미",
       "gender": "women",
       "association": "JPN",
-      "photo": null,
+      "photo": {
+        "src": "/world-stars-data/photos/women-hitomi-sato.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hitomi_Sato_ATTC2017_(cropped).jpg",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "author": "XIAOYU TANG",
+        "articleUrl": "https://en.wikipedia.org/wiki/Hitomi_Sat%C5%8D_(table_tennis)",
+        "sha256": "b85a0e644bb0fce63e414395c410363c5aca5ff30713997751de569627145194"
+      },
       "videos": [
         {
           "id": "cH9ydVnwn5U",
@@ -1526,7 +1650,7 @@
           "title": "사토 히토미 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:26.323Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/ECUyYD3yPaI/hqdefault.jpg"
         },
         {
           "id": "KxGbUtdOggI",
@@ -1534,7 +1658,7 @@
           "title": "사토 히토미 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:26.323Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/KxGbUtdOggI/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -1570,7 +1694,7 @@
           "title": "주위링 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:27.950Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/0eomYUVNQDQ/hqdefault.jpg"
         },
         {
           "id": "uuroVa3iLeM",
@@ -1578,7 +1702,7 @@
           "title": "주위링 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:27.950Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/uuroVa3iLeM/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -1628,7 +1752,7 @@
           "title": "오도 사츠키 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:30.115Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/zggEvNL-wdk/hqdefault.jpg"
         },
         {
           "id": "4ZdbwmgqH8o",
@@ -1636,7 +1760,7 @@
           "title": "오도 사츠키 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:30.115Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/4ZdbwmgqH8o/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -1672,7 +1796,7 @@
           "title": "쑨잉사 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:16.691Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/YIYVRuYobBE/hqdefault.jpg"
         },
         {
           "id": "Cfi8A8G7ykE",
@@ -1680,7 +1804,7 @@
           "title": "신유빈 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:31.773Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/Cfi8A8G7ykE/hqdefault.jpg"
         },
         {
           "id": "GOd9BhhWa_g",
@@ -1688,7 +1812,7 @@
           "title": "신유빈 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:31.773Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/GOd9BhhWa_g/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -1724,7 +1848,7 @@
           "title": "자비네 빈터 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:33.456Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/NCyqfnWNKmM/hqdefault.jpg"
         },
         {
           "id": "BC2KrvMTa9w",
@@ -1732,7 +1856,7 @@
           "title": "자비네 빈터 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:33.456Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/BC2KrvMTa9w/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -1781,7 +1905,7 @@
           "title": "하시모토 호노카 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:35.072Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/X5hp7YM7BIk/hqdefault.jpg"
         },
         {
           "id": "wwPPtg0m38c",
@@ -1789,7 +1913,7 @@
           "title": "하시모토 호노카 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:35.072Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/wwPPtg0m38c/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -1801,7 +1925,16 @@
       "nameKo": "스쉰야오",
       "gender": "women",
       "association": "CHN",
-      "photo": null,
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/123120_HEADSHOT_R_SHI_Xunyao.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=123120",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=123120",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=123120",
+        "sha256": "113e05d93f70404de669eb8e628c9c289d8fcd49448a9ed50c834c2b7e29b325"
+      },
       "videos": [
         {
           "id": "xVivJYfkNrk",
@@ -1817,7 +1950,7 @@
           "title": "스쉰야오 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:36.676Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/wxVWgK6tlB0/hqdefault.jpg"
         },
         {
           "id": "FH6kMRfNvc0",
@@ -1825,7 +1958,7 @@
           "title": "스쉰야오 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:36.676Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/FH6kMRfNvc0/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -1861,7 +1994,7 @@
           "title": "한잉 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:38.205Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/kpwza5b2xv0/hqdefault.jpg"
         },
         {
           "id": "5mdviy-irlQ",
@@ -1869,7 +2002,7 @@
           "title": "한잉 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:38.205Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/5mdviy-irlQ/hqdefault.jpg"
         }
       ],
       "equipment": [
@@ -1892,7 +2025,16 @@
       "nameKo": "주천희",
       "gender": "women",
       "association": "KOR",
-      "photo": null,
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/200413_HEADSHOT_R_JOO_Cheonhui.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=200413",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=200413",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=200413",
+        "sha256": "698a91c2e5947efe82c97c075a51b05be0191316affefbafc9c307b63fb2d9d0"
+      },
       "videos": [
         {
           "id": "VvNPVfyStwg",
@@ -1908,7 +2050,7 @@
           "title": "주천희 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:39.780Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/2uLmXpz3Oxo/hqdefault.jpg"
         },
         {
           "id": "WMyft_v3pZ0",
@@ -1916,7 +2058,7 @@
           "title": "주천희 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:39.780Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/WMyft_v3pZ0/hqdefault.jpg"
         },
         {
           "id": "k8AqOKBOhF8",
@@ -1924,7 +2066,7 @@
           "title": "주천희 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:39.780Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/k8AqOKBOhF8/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -1960,7 +2102,7 @@
           "title": "나가사키 미유 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:41.399Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/IgLbvWUvCXs/hqdefault.jpg"
         },
         {
           "id": "n38aFKphUsw",
@@ -1968,7 +2110,7 @@
           "title": "나가사키 미유 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:41.399Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/n38aFKphUsw/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -1981,13 +2123,14 @@
       "gender": "women",
       "association": "JPN",
       "photo": {
-        "src": "/world-stars-data/photos/women-miyuu-kihara.png",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miyuu_Kihara_signature.png",
-        "license": "CC BY 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-        "author": "木原美悠",
-        "articleUrl": "https://en.wikipedia.org/wiki/Miyuu_Kihara",
-        "sha256": "a1c65ebe17e40a0bfcb4a45bbe56085c49e684910d9f48417cc1e84f0deac0b4"
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/131036_Headshot_R_Miyuu%20KIHARA.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=131036",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=131036",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=131036",
+        "sha256": "c11c0dff52c2e41ee9de8e91f756b3c2cfd3ec4aacffd4057315b68c4426d1c1"
       },
       "videos": [
         {
@@ -2004,7 +2147,7 @@
           "title": "기하라 미유 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:43.531Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/p_ZbWkZk0qk/hqdefault.jpg"
         },
         {
           "id": "M3sBTPauzfs",
@@ -2012,7 +2155,7 @@
           "title": "기하라 미유 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:43.531Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/M3sBTPauzfs/hqdefault.jpg"
         }
       ],
       "equipment": [],
@@ -2024,7 +2167,16 @@
       "nameKo": "아드리아나 디아스",
       "gender": "women",
       "association": "PUR",
-      "photo": null,
+      "photo": {
+        "provider": "wtt",
+        "src": "https://photofiles.worldtabletennis.com/wtt-media/photos/200px_webp/115009_HEADSHOT_R_Adriana_DIAZ.webp?v=2_2026-11-05",
+        "sourceUrl": "https://www.worldtabletennis.com/playerDescription?playerId=115009",
+        "license": "공식 프로필 원문 참조",
+        "licenseUrl": "https://www.worldtabletennis.com/playerDescription?playerId=115009",
+        "author": "World Table Tennis",
+        "articleUrl": "https://www.worldtabletennis.com/playerDescription?playerId=115009",
+        "sha256": "d26f632edcb7b6472c55ffc97615ace6ce57318c10fd573d804ab57a6d2f6779"
+      },
       "videos": [
         {
           "id": "xnO70dtaeU0",
@@ -2040,7 +2192,7 @@
           "title": "주천희 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:39.780Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/2uLmXpz3Oxo/hqdefault.jpg"
         },
         {
           "id": "Aq_XdKHL4Y4",
@@ -2048,7 +2200,7 @@
           "title": "아드리아나 디아스 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:45.133Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/Aq_XdKHL4Y4/hqdefault.jpg"
         },
         {
           "id": "s11r5c_vdUw",
@@ -2056,7 +2208,7 @@
           "title": "아드리아나 디아스 관련 경기 영상",
           "uploader": "World Table Tennis",
           "checkedAt": "2026-11-04T01:11:45.133Z",
-          "thumbnail": null
+          "thumbnail": "https://i.ytimg.com/vi/s11r5c_vdUw/hqdefault.jpg"
         }
       ],
       "equipment": [
