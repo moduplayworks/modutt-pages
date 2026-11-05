@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "men-sora-matsushima",
+      "name": "Sora MATSUSHIMA",
+      "gender": "men",
+      "photo": null
+    },
+    {
+      "id": "men-felix-lebrun",
+      "name": "Felix LEBRUN",
+      "gender": "men",
+      "photo": {
+        "src": "/world-stars-data/photos/men-felix-lebrun.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:20220818_European_Championships_Munich_2022_Felix_Lebrun_850_9644.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Granada",
+        "articleUrl": "https://en.wikipedia.org/wiki/F%C3%A9lix_Lebrun",
+        "sha256": "b8bb410b1060a476f4d806780285c04342086700f29aa65eb6ddb47703b66c33"
+      }
+    },
+    {
+      "id": "men-tomokazu-harimoto",
+      "name": "Tomokazu HARIMOTO",
+      "gender": "men",
+      "photo": {
+        "src": "/world-stars-data/photos/men-tomokazu-harimoto.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Table_tennis_at_the_2018_Summer_Youth_Olympics_%E2%80%93_Men%27s_Singles_Gold_Medal_Match_020_(cropped).jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "Marcus Cyron",
+        "articleUrl": "https://en.wikipedia.org/wiki/Tomokazu_Harimoto",
+        "sha256": "4ba7889ba878aa8625b2bc69fa914228a55e059da4fc127ac56622d10356d730"
+      }
+    },
+    {
+      "id": "men-wang-chuqin",
+      "name": "WANG Chuqin",
+      "gender": "men",
+      "photo": {
+        "src": "/world-stars-data/photos/men-wang-chuqin.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Table_tennis_at_the_2018_Summer_Youth_Olympics_%E2%80%93_Men%27s_Singles_Gold_Medal_Match_068_(cropped).jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "Marcus Cyron",
+        "articleUrl": "https://en.wikipedia.org/wiki/Wang_Chuqin",
+        "sha256": "5af80eea6d79803eb20da303a20fb8168850802c924bf844b6223168b0b30bf8"
+      }
+    },
+    {
+      "id": "men-truls-moregard",
+      "name": "Truls MOREGARD",
+      "gender": "men",
+      "photo": {
+        "src": "/world-stars-data/photos/men-truls-moregard.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Table_tennis_at_the_2018_Summer_Youth_Olympics_%E2%80%93_Mixed_Bronze_Medal_Match_Men_109.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "Marcus Cyron",
+        "articleUrl": "https://en.wikipedia.org/wiki/Truls_M%C3%B6reg%C3%A5rdh",
+        "sha256": "ff4808b1646406e9ea81d2ac392e199029c599a853269baf73572e831e5676e4"
+      }
+    },
+    {
+      "id": "men-lin-yun-ju",
+      "name": "LIN Yun-Ju",
+      "gender": "men",
+      "photo": {
+        "src": "/world-stars-data/photos/men-lin-yun-ju.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:08.05_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E6%A1%8C%E7%90%83%E9%81%B8%E6%89%8B%E6%9E%97%E6%98%80%E5%84%92_(48460894246).jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "author": "總統府",
+        "articleUrl": "https://en.wikipedia.org/wiki/Lin_Yun-ju",
+        "sha256": "64e4d17b120a37c3c33f5284364955422108e2044fdbdd8142aebff53df706ad"
+      }
+    },
+    {
+      "id": "men-hugo-calderano",
+      "name": "Hugo CALDERANO",
+      "gender": "men",
+      "photo": {
+        "src": "/world-stars-data/photos/men-hugo-calderano.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calderano_em_2021_(cropped).jpg",
+        "license": "CC BY 3.0 br",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+        "author": "Breno Barros",
+        "articleUrl": "https://en.wikipedia.org/wiki/Hugo_Calderano",
+        "sha256": "f92f4485b94c970d2dbc38880e296cd9493ee6ae5db76ceab525da66806fba7c"
+      }
+    },
+    {
+      "id": "men-jang-woojin",
+      "name": "JANG Woojin",
+      "gender": "men",
+      "photo": {
+        "src": "/world-stars-data/photos/men-jang-woojin.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jang_Woo-jin_ATTC2017_8.jpeg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "author": "XIAOYU TANG",
+        "articleUrl": "https://en.wikipedia.org/wiki/Jang_Woo-jin",
+        "sha256": "35548bc64a617f67c4c6a31babe4b99313d5c781ba484a8601a9b01d27e037c3"
+      }
+    },
+    {
+      "id": "men-alexis-lebrun",
+      "name": "Alexis LEBRUN",
+      "gender": "men",
+      "photo": {
+        "src": "/world-stars-data/photos/men-alexis-lebrun.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:20220818_European_Championships_Munich_2022_Alexis_Lebrun_850_9513.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Granada",
+        "articleUrl": "https://en.wikipedia.org/wiki/Alexis_Lebrun",
+        "sha256": "2b6f9dbdcf64b2b3358a387face178f67e76dbf335f31f98901b6993e3c1a8f3"
+      }
+    },
+    {
+      "id": "men-lin-shidong",
+      "name": "LIN Shidong",
+      "gender": "men",
+      "photo": null
+    },
+    {
+      "id": "men-dang-qiu",
+      "name": "Dang QIU",
+      "gender": "men",
+      "photo": {
+        "src": "/world-stars-data/photos/men-dang-qiu.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:20220814_European_Championships_Munich_2022_Dang_Qiu_850_2751.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Granada",
+        "articleUrl": "https://en.wikipedia.org/wiki/Dang_Qiu",
+        "sha256": "afccd6b0b275d7d65c1a0edaa883fa11263deded71074e053f33a7dfb540013c"
+      }
+    },
+    {
+      "id": "men-zhou-qihao",
+      "name": "ZHOU Qihao",
+      "gender": "men",
+      "photo": null
+    },
+    {
+      "id": "men-darko-jorgic",
+      "name": "Darko JORGIC",
+      "gender": "men",
+      "photo": null
+    },
+    {
+      "id": "men-wen-ruibo",
+      "name": "WEN Ruibo",
+      "gender": "men",
+      "photo": null
+    },
+    {
+      "id": "men-patrick-franziska",
+      "name": "Patrick FRANZISKA",
+      "gender": "men",
+      "photo": {
+        "src": "/world-stars-data/photos/men-patrick-franziska.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023_DM_Tischtennis_-_Patrick_Franziska_-_by_2eight_-_9SC1552.jpg",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "author": "Stefan Brending (2eight)",
+        "articleUrl": "https://en.wikipedia.org/wiki/Patrick_Franziska",
+        "sha256": "75959e21eb1f24149497704a031a4807494c76bfcf8db12725cb68b23e620f57"
+      }
+    },
+    {
+      "id": "men-shunsuke-togami",
+      "name": "Shunsuke TOGAMI",
+      "gender": "men",
+      "photo": null
+    },
+    {
+      "id": "men-anders-lind",
+      "name": "Anders LIND",
+      "gender": "men",
+      "photo": null
+    },
+    {
+      "id": "men-vladimir-sidorenko",
+      "name": "Vladimir SIDORENKO",
+      "gender": "men",
+      "photo": null
+    },
+    {
+      "id": "men-oh-junsung",
+      "name": "OH Junsung",
+      "gender": "men",
+      "photo": null
+    },
+    {
+      "id": "men-hiroto-shinozuka",
+      "name": "Hiroto SHINOZUKA",
+      "gender": "men",
+      "photo": null
+    },
+    {
+      "id": "women-wang-manyu",
+      "name": "WANG Manyu",
+      "gender": "women",
+      "photo": {
+        "src": "/world-stars-data/photos/women-wang-manyu.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wang_Manyu_ATTC2017_2.jpeg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "author": "XIAOYU TANG",
+        "articleUrl": "https://en.wikipedia.org/wiki/Wang_Manyu",
+        "sha256": "45219b83fdbb032fef9e06661248b999746810ebf6a68fadfbc6d1d227a7bccc"
+      }
+    },
+    {
+      "id": "women-sun-yingsha",
+      "name": "SUN Yingsha",
+      "gender": "women",
+      "photo": {
+        "src": "/world-stars-data/photos/women-sun-yingsha.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sun_Yingsha.png",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "author": "China News Service",
+        "articleUrl": "https://en.wikipedia.org/wiki/Sun_Yingsha",
+        "sha256": "35cb98f2d947783c031dd8f4816380008a833171fda1099f02a1b6086f02015e"
+      }
+    },
+    {
+      "id": "women-miwa-harimoto",
+      "name": "Miwa HARIMOTO",
+      "gender": "women",
+      "photo": {
+        "src": "/world-stars-data/photos/women-miwa-harimoto.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harimoto_Miwa_2023.png",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "author": "中国新闻社",
+        "articleUrl": "https://en.wikipedia.org/wiki/Miwa_Harimoto",
+        "sha256": "4d60e09b75f4cca2cfd22907ec43bad6a99ff42483014890d5ab40db1e396b1c"
+      }
+    },
+    {
+      "id": "women-kuai-man",
+      "name": "KUAI Man",
+      "gender": "women",
+      "photo": null
+    },
+    {
+      "id": "women-wang-yidi",
+      "name": "WANG Yidi",
+      "gender": "women",
+      "photo": null
+    },
+    {
+      "id": "women-hina-hayata",
+      "name": "Hina HAYATA",
+      "gender": "women",
+      "photo": {
+        "src": "/world-stars-data/photos/women-hina-hayata.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hayata_Hina_ATTC2017_25_(cropped).jpeg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "author": "XIAOYU TANG",
+        "articleUrl": "https://en.wikipedia.org/wiki/Hina_Hayata",
+        "sha256": "0c29cbac99bcf92b50979e9a7b81ea40162c1e5f3cb34032e95aa48c339e5815"
+      }
+    },
+    {
+      "id": "women-chen-xingtong",
+      "name": "CHEN Xingtong",
+      "gender": "women",
+      "photo": {
+        "src": "/world-stars-data/photos/women-chen-xingtong.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chen_Xingtong_on_2018_ITTF_World_Tour_Platinum_China_Open_(in_game).jpg",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "author": "Second Wing",
+        "articleUrl": "https://en.wikipedia.org/wiki/Chen_Xingtong",
+        "sha256": "a9dd77d331345947a05d7a16bb73dc1dca9ff95d5e59cf6e0acaf8170e82fbca"
+      }
+    },
+    {
+      "id": "women-chen-yi",
+      "name": "CHEN Yi",
+      "gender": "women",
+      "photo": null
+    },
+    {
+      "id": "women-hitomi-sato",
+      "name": "Hitomi SATO",
+      "gender": "women",
+      "photo": null
+    },
+    {
+      "id": "women-zhu-yuling",
+      "name": "ZHU Yuling",
+      "gender": "women",
+      "photo": {
+        "src": "/world-stars-data/photos/women-zhu-yuling.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mondial_Ping_-Women%27s_Singles_-_Quarterfinal_-_Zhu_Yuling-Feng_Tianwei_-_18.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "Pierre-Yves Beaudouin",
+        "articleUrl": "https://en.wikipedia.org/wiki/Zhu_Yuling",
+        "sha256": "2d56d32af6722fbefd624be47fc6031521aebf7fbd6f2783adbf245425558b2d"
+      }
+    },
+    {
+      "id": "women-satsuki-odo",
+      "name": "Satsuki ODO",
+      "gender": "women",
+      "photo": {
+        "src": "/world-stars-data/photos/women-satsuki-odo.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Satsuki_Odo_Swedish_Open_Championships,_2018_01_(cropped).jpg",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "author": "Axel Pettersson",
+        "articleUrl": "https://en.wikipedia.org/wiki/Satsuki_Odo",
+        "sha256": "f86374c03ab1a3ef07e64b975558fa71b1c560e37b0b3a92a94a9ab8550edef9"
+      }
+    },
+    {
+      "id": "women-shin-yubin",
+      "name": "SHIN Yubin",
+      "gender": "women",
+      "photo": {
+        "src": "/world-stars-data/photos/women-shin-yubin.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%8B%A0%EC%9C%A0%EB%B9%88_%EC%84%A0%EC%88%98.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "author": "KTTL 한국프로탁구리그 (한국실업탁구연맹)",
+        "articleUrl": "https://en.wikipedia.org/wiki/Shin_Yu-bin",
+        "sha256": "a5392a7ae8dee3a83c735500c36506f7ed4f58f55fa0018d4b3adb14335e6990"
+      }
+    },
+    {
+      "id": "women-sabine-winter",
+      "name": "Sabine WINTER",
+      "gender": "women",
+      "photo": {
+        "src": "/world-stars-data/photos/women-sabine-winter.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023_DM_Tischtennis_-_Sabine_Winter_-_by_2eight_-_9SC3285.jpg",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "author": "Stefan Brending (2eight)",
+        "articleUrl": "https://en.wikipedia.org/wiki/Sabine_Winter",
+        "sha256": "2f4763bae390e462af3d9103ef1109c84d12f396f273202c14e35747fe0d991d"
+      }
+    },
+    {
+      "id": "women-honoka-hashimoto",
+      "name": "Honoka HASHIMOTO",
+      "gender": "women",
+      "photo": {
+        "src": "/world-stars-data/photos/women-honoka-hashimoto.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Honoka_Hashimoto_ATTC2017_(cropped).jpg",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "author": "XIAOYU TANG",
+        "articleUrl": "https://en.wikipedia.org/wiki/Honoka_Hashimoto",
+        "sha256": "5f79c67f6f2d71db3fb15ed9bbd231a3803b703b4321a75ae4c22e25d53b2993"
+      }
+    },
+    {
+      "id": "women-shi-xunyao",
+      "name": "SHI Xunyao",
+      "gender": "women",
+      "photo": null
+    },
+    {
+      "id": "women-ying-han",
+      "name": "Ying HAN",
+      "gender": "women",
+      "photo": {
+        "src": "/world-stars-data/photos/women-ying-han.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rio_2016_-_Women%27s_table_tennis_quarter_finals_(29228976252).jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "author": "Sander van Ginkel",
+        "articleUrl": "https://en.wikipedia.org/wiki/Han_Ying",
+        "sha256": "ea31e43a17f846cafd513206681d15f5ef699701fd165b4b48a724d74e56b769"
+      }
+    },
+    {
+      "id": "women-joo-cheonhui",
+      "name": "JOO Cheonhui",
+      "gender": "women",
+      "photo": null
+    },
+    {
+      "id": "women-miyu-nagasaki",
+      "name": "Miyu NAGASAKI",
+      "gender": "women",
+      "photo": {
+        "src": "/world-stars-data/photos/women-miyu-nagasaki.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miyu_Nagasaki_Swedish_Open_Championships_2018_cropped.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "author": "User:Haxpett",
+        "articleUrl": "https://en.wikipedia.org/wiki/Miyu_Nagasaki",
+        "sha256": "8eee7d8f92537fb9851ccd6baa10b1cf036437667b162be48efdb3e87ddd72d8"
+      }
+    },
+    {
+      "id": "women-miyuu-kihara",
+      "name": "Miyuu KIHARA",
+      "gender": "women",
+      "photo": {
+        "src": "/world-stars-data/photos/women-miyuu-kihara.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miyuu_Kihara_signature.png",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "author": "木原美悠",
+        "articleUrl": "https://en.wikipedia.org/wiki/Miyuu_Kihara",
+        "sha256": "a1c65ebe17e40a0bfcb4a45bbe56085c49e684910d9f48417cc1e84f0deac0b4"
+      }
+    },
+    {
+      "id": "women-adriana-diaz",
+      "name": "Adriana DIAZ",
+      "gender": "women",
+      "photo": null
+    }
+  ]
+}

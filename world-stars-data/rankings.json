@@ -1,0 +1,412 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://butterflyonline.com/world-top-20/",
+  "originalSourceUrl": "https://www.ittf.com/rankings/",
+  "publishedAt": "2026-11-02",
+  "observedAt": "2026-11-04T08:48:54.620Z",
+  "year": 2026,
+  "week": 45,
+  "scope": "singles_top20",
+  "items": [
+    {
+      "playerId": "men-sora-matsushima",
+      "rank": 1,
+      "name": "Sora MATSUSHIMA",
+      "nameKo": "마쓰시마 소라",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "JPN",
+      "points": 8230,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-felix-lebrun",
+      "rank": 2,
+      "name": "Felix LEBRUN",
+      "nameKo": "펠릭스 르브렁",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "FRA",
+      "points": 6859,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-tomokazu-harimoto",
+      "rank": 3,
+      "name": "Tomokazu HARIMOTO",
+      "nameKo": "하리모토 토모카즈",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "JPN",
+      "points": 6413,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-wang-chuqin",
+      "rank": 4,
+      "name": "WANG Chuqin",
+      "nameKo": "왕추친",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "CHN",
+      "points": 6157,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-truls-moregard",
+      "rank": 5,
+      "name": "Truls MOREGARD",
+      "nameKo": "트룰스 뫼레고르",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "SWE",
+      "points": 5630,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-lin-yun-ju",
+      "rank": 6,
+      "name": "LIN Yun-Ju",
+      "nameKo": "린윤주",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "TPE",
+      "points": 5595,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-hugo-calderano",
+      "rank": 7,
+      "name": "Hugo CALDERANO",
+      "nameKo": "우고 칼데라노",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "BRA",
+      "points": 4830,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-jang-woojin",
+      "rank": 8,
+      "name": "JANG Woojin",
+      "nameKo": "장우진",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "KOR",
+      "points": 4236,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-alexis-lebrun",
+      "rank": 9,
+      "name": "Alexis LEBRUN",
+      "nameKo": "알렉시스 르브렁",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "FRA",
+      "points": 3750,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-lin-shidong",
+      "rank": 10,
+      "name": "LIN Shidong",
+      "nameKo": "린스둥",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "CHN",
+      "points": 3686,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-dang-qiu",
+      "rank": 11,
+      "name": "Dang QIU",
+      "nameKo": "당치우",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "GER",
+      "points": 3043,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-zhou-qihao",
+      "rank": 12,
+      "name": "ZHOU Qihao",
+      "nameKo": "저우치하오",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "CHN",
+      "points": 3030,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-darko-jorgic",
+      "rank": 13,
+      "name": "Darko JORGIC",
+      "nameKo": "다르코 요르기치",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "SLO",
+      "points": 2895,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-wen-ruibo",
+      "rank": 14,
+      "name": "WEN Ruibo",
+      "nameKo": "원루이보",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "CHN",
+      "points": 2775,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-patrick-franziska",
+      "rank": 15,
+      "name": "Patrick FRANZISKA",
+      "nameKo": "파트리크 프란치스카",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "GER",
+      "points": 2700,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-shunsuke-togami",
+      "rank": 16,
+      "name": "Shunsuke TOGAMI",
+      "nameKo": "도가미 슌스케",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "JPN",
+      "points": 2538,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-anders-lind",
+      "rank": 17,
+      "name": "Anders LIND",
+      "nameKo": "안데르스 린드",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "DEN",
+      "points": 2497,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-vladimir-sidorenko",
+      "rank": 18,
+      "name": "Vladimir SIDORENKO",
+      "nameKo": "블라디미르 시도렌코",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "RUS",
+      "points": 2290,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-oh-junsung",
+      "rank": 19,
+      "name": "OH Junsung",
+      "nameKo": "오준성",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "KOR",
+      "points": 2157,
+      "gender": "men"
+    },
+    {
+      "playerId": "men-hiroto-shinozuka",
+      "rank": 20,
+      "name": "Hiroto SHINOZUKA",
+      "nameKo": "시노즈카 히로토",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "JPN",
+      "points": 2020,
+      "gender": "men"
+    },
+    {
+      "playerId": "women-wang-manyu",
+      "rank": 1,
+      "name": "WANG Manyu",
+      "nameKo": "왕만위",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "CHN",
+      "points": 9265,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-sun-yingsha",
+      "rank": 2,
+      "name": "SUN Yingsha",
+      "nameKo": "쑨잉사",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "CHN",
+      "points": 8575,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-miwa-harimoto",
+      "rank": 3,
+      "name": "Miwa HARIMOTO",
+      "nameKo": "하리모토 미와",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "JPN",
+      "points": 7009,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-kuai-man",
+      "rank": 4,
+      "name": "KUAI Man",
+      "nameKo": "콰이만",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "CHN",
+      "points": 6030,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-wang-yidi",
+      "rank": 5,
+      "name": "WANG Yidi",
+      "nameKo": "왕이디",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "CHN",
+      "points": 5260,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-hina-hayata",
+      "rank": 6,
+      "name": "Hina HAYATA",
+      "nameKo": "하야타 히나",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "JPN",
+      "points": 4770,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-chen-xingtong",
+      "rank": 7,
+      "name": "CHEN Xingtong",
+      "nameKo": "천싱퉁",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "CHN",
+      "points": 4660,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-chen-yi",
+      "rank": 8,
+      "name": "CHEN Yi",
+      "nameKo": "천이",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "CHN",
+      "points": 4335,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-hitomi-sato",
+      "rank": 9,
+      "name": "Hitomi SATO",
+      "nameKo": "사토 히토미",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "JPN",
+      "points": 4220,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-zhu-yuling",
+      "rank": 10,
+      "name": "ZHU Yuling",
+      "nameKo": "주위링",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "MAC",
+      "points": 3500,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-satsuki-odo",
+      "rank": 11,
+      "name": "Satsuki ODO",
+      "nameKo": "오도 사츠키",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "JPN",
+      "points": 3390,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-shin-yubin",
+      "rank": 12,
+      "name": "SHIN Yubin",
+      "nameKo": "신유빈",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "KOR",
+      "points": 3350,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-sabine-winter",
+      "rank": 13,
+      "name": "Sabine WINTER",
+      "nameKo": "자비네 빈터",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "GER",
+      "points": 3255,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-honoka-hashimoto",
+      "rank": 14,
+      "name": "Honoka HASHIMOTO",
+      "nameKo": "하시모토 호노카",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "JPN",
+      "points": 2924,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-shi-xunyao",
+      "rank": 15,
+      "name": "SHI Xunyao",
+      "nameKo": "스쉰야오",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "CHN",
+      "points": 2495,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-ying-han",
+      "rank": 16,
+      "name": "Ying HAN",
+      "nameKo": "한잉",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "GER",
+      "points": 2385,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-joo-cheonhui",
+      "rank": 17,
+      "name": "JOO Cheonhui",
+      "nameKo": "주천희",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "KOR",
+      "points": 2100,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-miyu-nagasaki",
+      "rank": 18,
+      "name": "Miyu NAGASAKI",
+      "nameKo": "나가사키 미유",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "JPN",
+      "points": 2070,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-miyuu-kihara",
+      "rank": 19,
+      "name": "Miyuu KIHARA",
+      "nameKo": "기하라 미유",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "JPN",
+      "points": 1955,
+      "gender": "women"
+    },
+    {
+      "playerId": "women-adriana-diaz",
+      "rank": 20,
+      "name": "Adriana DIAZ",
+      "nameKo": "아드리아나 디아스",
+      "nameKoStatus": "editorial_transliteration",
+      "association": "PUR",
+      "points": 1907,
+      "gender": "women"
+    }
+  ]
+}
