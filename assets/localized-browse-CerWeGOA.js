@@ -1,1 +1,0 @@
-import{bp as t,bq as a,t as e}from"./index-BmmjHL1L.js";function s(i,n){return e(n,`browse.divisions.${i}`)}function b(i,n,o){if(o==="ko")return t(i,n);const r=a(i,n);return i?`${s(i,o)} ${r}`:r}function u(i,n){return e(n,`browse.events.${i}`)}export{b as a,s as b,u as l};
