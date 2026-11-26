@@ -1,0 +1,1 @@
+import{bs as e,bt as s,t}from"./index-B5Ntssdw.js";function a(i,n){return t(n,`browse.divisions.${i}`)}function b(i,n,o){if(o==="ko")return e(i,n);const r=s(i,n);return i?`${a(i,o)} ${r}`:r}function u(i,n){return t(n,`browse.events.${i}`)}export{b as a,a as b,u as l};
